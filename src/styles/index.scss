@@ -1,0 +1,130 @@
+body{
+    background-color: #D7DBD8;
+
+}
+
+.title{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 80px;
+
+}
+input {
+    // text-align: right;
+    padding: 0 0 0 13px;
+    float: left;
+}
+.parent {
+    margin: 30px auto; 
+    width: 800px;
+    font-family:Arial, Helvetica, sans-serif;
+   
+}
+.inputField {
+    margin: 10px 100px; 
+    width: 800px;
+    float: left;  
+}
+#name {
+    // margin-left: 200px; 
+    margin-top: 30px;
+    height: 35px;
+    width: 250px;
+    border-radius: 6px 0 0 6px;
+    border: 0;
+    background-color: rgba(205, 209, 206, 0.877);
+}
+#price {
+    margin-left: 10px; 
+    margin-top: 30px;
+    height: 35px;
+    width: 250px;
+    border-radius: 6px 0 0 6px;
+    border: 0;
+    background-color: rgba(205, 209, 206, 0.877);
+}
+
+#button {
+    height: 35px;
+    margin-top: 30px;
+    width: 80px;
+    color: white;
+    background-color: #2681FF;
+    border: 0;
+    margin-left: 10px; 
+    text-align: center;
+    font-weight: bold;
+
+}
+hr{
+    opacity: 0.4;
+    width: 590px;
+    margin-top: 10px;
+
+}
+.fieldTitle{
+width: 700px;
+// float: left;
+
+}
+#nameField{
+display: inline-block;
+width: 20%;
+margin-top: 20px;
+margin-left: 100px;
+font-size: 15px;
+font-weight: bold;
+padding-left: 25px;
+
+
+
+
+}
+#priceField{
+    display: inline-block;
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 100px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 0;
+
+
+}
+#actionField{
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 99px;
+
+
+}
+#info {
+    display: inline-block;
+    width: 20%;
+    
+
+}
+#info1 {
+    display: inline-block;
+    margin-left: 100px;
+    width: 20%;
+
+}
+#action {
+    display: inline-block;
+    margin-left: 100px;
+
+
+}
+.info {
+    margin-top: 20px;
+    margin-left: 100px;
+    font-size: 13px;
+    
+ 
+}
+input[type=checkbox] {
+    margin-right: 10px;
+   
+}
